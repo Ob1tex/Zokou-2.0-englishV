@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*╔═════ •✧✧• ════╗*
+*╔═════ •✧obitex✧• ════╗*
 ┃   *Préfix* : ${s.PREFIXE}
 ┃   *Owner* : ${s.OWNER_NAME}
 ┃   *Mode* : ${mode}
@@ -42,7 +42,7 @@ const date = moment().format('DD/MM/YYYY');
 ┃   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┃   *Plateforme* : ${os.platform()}
 ┃   *Développer* : Djalega++ 
-┃  & M๏𝓷keℽ D Lบffy
+┃  & contact:+2349160864818
 *╚═════ •✧✧• ════╝* \n\n`;
     
 let menuMsg = `
